@@ -1,0 +1,59 @@
+name: pet_application
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  gap: ^3.0.1
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - images\Frame 2113.png
+  - images\image.png
+  - images\image (1).png
+  - images\image (2).png
+  - images\fi_shopping-bag.png
+  - images\Vector (4).png
+  - images\fi_check.png
+  - images\img3.png
+  - images\image1.png
+  - images\image4.png
+  - images\doctor2.png
+  - images\row3.png
+  - images\row4.png
+  - images\row2.png
+  - images\fi_calendar.png
+  - images\fi_map.png
+  - images\dogromming.png
+  - images\grom2.png
+  - images\grom22.png
+  - images\grom3.png
+  - images\grom4.png
+  - images\grom5.png
+  - images\grom6.png
+  - images\sho1.png
+  - images\shop2.png
+  - images\shop3.png
+  - images\shop4.png
+  - images\shop5.png
+  - images\shop6.png
+  - images\Canine Good Citizen Test.png
+  - images\THERAPI.png
+  - images\frame1.png
+  - images\Speciality Classes & Workshop.png
+  - images\Puppy Kinderganten and Playgroups.png
+
+  
