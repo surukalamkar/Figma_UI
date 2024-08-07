@@ -1,0 +1,30 @@
+name: music_app_ui
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  percent_indicator: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images\44 1.jpg
+    - images\home.jpg
+    - images\Rectangle 32.jpg
+    - images\Rectangle 38.jpg
+    - images\Rectangle 39.jpg
+    - images\Rectangle 40.jpg
+
